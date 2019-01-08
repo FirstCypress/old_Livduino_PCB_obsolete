@@ -1,0 +1,13 @@
+
+Sonoff was configured with fixed IP address 192.168.1.42 and the following rules:
+
+
+
+On T0 do
+gpio,12,0
+EndOn
+
+On T1 do
+gpio,12,1
+EndOn
+
