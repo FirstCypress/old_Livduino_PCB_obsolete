@@ -1,2 +1,1 @@
-# LiVduino
-<http://www.livduino.com>
+# archives for old project
